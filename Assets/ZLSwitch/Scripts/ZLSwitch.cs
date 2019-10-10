@@ -16,6 +16,13 @@ public class ZLSwitch : MonoBehaviour
     Image backgroundImage; //스위치 배경이미지
     RectTransform handleRectTransform; //스위치 핸들 RectTransform
 
+    //Coroutine
+    Coroutine moveHandleCoroutine;
+
+    //Color
+    public Color handleColor;
+    public Color offBackgroundColor;
+    public Color OnBackgroundColor;
     void Start()
     {
         //Handle 초기화
@@ -44,7 +51,14 @@ public class ZLSwitch : MonoBehaviour
         //Mathf.Abs : 절대값을 반환 ex) -23 = 23, 23 = 23
         float duration = moveDuration * ratio;
 
-        StartCoroutine(moveHandle(fromPosition, toPosition, duration));
+        moveHandleCoroutine = StartCoroutine(moveHandle(fromPosition, toPosition, duration));
+        //코루틴이 실행중인지 확인하기위한 변수 선언
+        if (moveHandleCoroutine != null)
+        {
+            StopCoroutine(moveHandleCoroutine);
+            moveHandleCoroutine = null;
+        }
+            StartCoroutine(moveHandle(fromPosition, toPosition, duration));
     }
     /// <summary>
     /// 핸들을 이동하는 함수
