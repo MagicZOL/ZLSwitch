@@ -57,11 +57,11 @@ You can also change the color of the switch background to the color you want.</u
 ---
 
 **Advantages**
-a soft movement
+<ol>1. soft movement[br]
 Switch will move smoothly.<br>
 The color changes as you move.</ol>
 
-a neat design
+<ol>2. Clean design <br>
 A clean switch has been created.</ol>
 
 <ol>3. Mobile switch <br>
