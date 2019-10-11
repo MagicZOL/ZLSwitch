@@ -28,7 +28,7 @@
 
 ___
 
-당신만의 스위치를 사용해보세요!
+####당신만의 스위치를 사용해보세요!
 
 ___
 
@@ -46,7 +46,7 @@ Hello.
 This switch was made using Unity GUI.
 ***
 **Function**
-<ul>1. On/Off function[br]
+<ul>1. On/Off function</br>
 You can turn the sound off and on.</ul>
 
 <ul>2. Switch color change function <br> switch can be changed to any color.</ul>
@@ -57,7 +57,7 @@ You can also change the color of the switch background to the color you want.</u
 ---
 
 **Advantages**
-<ol>1. soft movement[br]
+<ol>1. soft movement</br>
 Switch will move smoothly.<br>
 The color changes as you move.</ol>
 
@@ -69,7 +69,7 @@ This is a switch that can be seen mainly in the mobile environment.</ol>
 
 ___
 
-Try your own switch!
+####Try your own switch!
 
 ___
 
