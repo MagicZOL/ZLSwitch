@@ -3,6 +3,11 @@
 
 안녕하세요
  Unity GUI를 이용하여 만든 스위치 입니다.
+
+ ***스위치 디자인 소개*** / ***Introduction to Switch Design***
+
+ ![switch](./Image/Switch.PNG)
+
 ***
 **기능**
 <ul>1. On / Off 기능<br>
@@ -28,7 +33,7 @@
 
 ___
 
-####당신만의 스위치를 사용해보세요!
+#### 당신만의 스위치를 사용해보세요!
 
 ___
 
@@ -69,7 +74,7 @@ This is a switch that can be seen mainly in the mobile environment.</ol>
 
 ___
 
-####Try your own switch!
+#### Try your own switch!
 
 ___
 
