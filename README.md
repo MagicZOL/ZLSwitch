@@ -6,7 +6,7 @@
 
  ***스위치 디자인 소개*** / ***Introduction to Switch Design***
 
- ![switch](./Image/SwitchGIF)
+ ![switch](./Image/SwitchGIF.gif)
 
 ***
 **기능**
