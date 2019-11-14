@@ -1,9 +1,9 @@
 # ZLSwitch
 **Unity GUI를 이용한 스위치**
 
-안녕하세요
- Unity GUI를 이용하여 만든 스위치 입니다.
-
+안녕하세요! <br>
+Unity GUI를 이용하여 만든 스위치 입니다.
+# 
  ***스위치 디자인 소개*** / ***Introduction to Switch Design***
 
  ![switch](./Image/SwitchGIF.gif)
@@ -47,7 +47,7 @@ ___
 # ZLSwitch
 **Switch with Unity GUI**
 
-Hello.
+Hello! <br>
 This switch was made using Unity GUI.
 ***
 **Function**
