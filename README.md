@@ -3,11 +3,11 @@
 
 안녕하세요! <br>
 Unity GUI를 이용하여 만든 스위치 입니다.
-# 
+***
  ***스위치 디자인 소개*** / ***Introduction to Switch Design***
 
  ![switch](./Image/SwitchGIF.gif)
-
+ 
 ***
 **기능**
 <ul>1. On / Off 기능<br>
@@ -42,7 +42,7 @@ ___
 네이버 이메일 chfhrtorthsk@naver.com<br>
 
 ***
-##Engilsh
+## Engilsh
 
 # ZLSwitch
 **Switch with Unity GUI**
